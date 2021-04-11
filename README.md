@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on software automation applied to networks and data centers.
-- 🌱 I’m currently learning artificial intelligence, TinyML, Frontend.
+- 🌱 Learning artificial intelligence and Angular
 
 ⠀
